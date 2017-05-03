@@ -18,7 +18,6 @@ var api3 = {
 var api4 = {
   Name : "Drone",
   Master : 'http://api.dronestre.am/data',
- // Hack: 'https://crossorigin.me/',
 } //Drone Strikes
 
 var api5 = {

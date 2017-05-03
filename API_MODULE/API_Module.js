@@ -17,7 +17,7 @@ var api3 = {
 
 var api4 = {
   Name : "Drone",
-  Master : 'http://cors-proxy.htmldriven.com/?url=http://api.dronestre.am/data',
+  Master : 'api.dronestre.am/data',
   //Hack: 'https://crossorigin.me/',
 } //Drone Strikes
 

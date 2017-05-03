@@ -17,8 +17,8 @@ var api3 = {
 
 var api4 = {
   Name : "Drone",
-  Master : 'http://api.dronestre.am/data&callback=?',
-  //Hack: 'https://crossorigin.me/',
+  Master : 'http://api.dronestre.am/data',
+  Hack: 'https://crossorigin.me/',
 } //Drone Strikes
 
 var api5 = {
@@ -36,7 +36,7 @@ var api6 = {
 var url1 = api1.Hack + api1.Master + api1.Country;
 var url2 = api2.Master;
 var url3 = api3.Master;
-var url4 = api4.Master;
+var url4 = api4.Hack + api4.Master;
 var url5 = api5.Master + api5.Key;
 var url6 = api6.Master + api6.Date;
 
